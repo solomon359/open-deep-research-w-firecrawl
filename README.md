@@ -7,6 +7,7 @@ The workflow mirrors the diagram you attached: generate plan → split into task
 ## Links
 - [YouTube video tutorial](https://www.youtube.com/watch?v=vHBRmXpDIFY)
 - [Written version of the tutorial](https://alejandro-ao.com/posts/agents/multi-agent-deep-research/)
+- [Architecture & tools walkthrough](docs/architecture.md)
 
 ## Highlights
 - Built on `smolagents` (by Hugging Face) for agent orchestration and tool calling.
